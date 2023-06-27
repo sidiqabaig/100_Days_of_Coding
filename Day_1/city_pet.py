@@ -18,3 +18,8 @@ print(f"your band name is {city} {pet}")
 
 for i in range( 10):
     print(" I love you my sister so much ")
+
+i = 0
+while i< 10:
+    print("I hove from here to the moon and back my dear bro!!!")
+    i += 1
