@@ -14,3 +14,7 @@ print(f"your band name is {city} {pet}")
 #5. Make sure the input cursor shows on a new line:
 
 # Solution: https://replit.com/@appbrewery/band-name-generator-end
+
+
+for i in range( 10):
+    print(" I love you my sister so much ")
